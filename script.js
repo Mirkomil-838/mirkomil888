@@ -69,6 +69,41 @@ const songs = [
     discPath: 'music8.mp3',
     duration: '5:37',
   },
+  {
+    title: '...',
+    artist: 'Джованна_кавер_djovanna_2021',
+    coverPath: 'Mp3.svg.png',
+    discPath: 'music9.mp3',
+    duration: '5:37',
+  },
+  {
+    title: '...',
+    artist: 'Из чёрного мерина (by Atlanta)',
+    coverPath: 'Mp3.svg.png',
+    discPath: 'music10.mp3',
+    duration: '5:37',
+  },
+  {
+    title: '...',
+    artist: 'Davae (Slow)',
+    coverPath: 'Mp3.svg.png',
+    discPath: 'music11.mp3',
+    duration: '5:37',
+  },
+  {
+    title: 'Jaloliddin Ahmadaliyev',
+    artist: 'Ex joralar',
+    coverPath: 'Mp3.svg.png',
+    discPath: 'music12.mp3',
+    duration: '5:37',
+  },
+  {
+    title: 'UZmir ft. Mira',
+    artist: 'Poralab',
+    coverPath: 'Mp3.svg.png',
+    discPath: 'music13.mp3',
+    duration: '5:37',
+  },
 ];
 
 // Load song initially
